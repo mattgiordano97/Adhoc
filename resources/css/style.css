@@ -1,0 +1,9 @@
+.jumbotron {
+    background: url(https://content.codecademy.com/courses/learn-bootstrap-4/adhoc/jumbotron.png) no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    background-color: rgba(108, 117, 125, 0.9) !important;
+
+}
